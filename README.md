@@ -24,6 +24,7 @@ Test case
 5.B
 
 Added the corrected code in an extra file
+ELSE part had wrong intendation, due to which unique key of data2 was not added to data1
 
 5c.
 Test cases 1
